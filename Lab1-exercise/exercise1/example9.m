@@ -1,0 +1,10 @@
+x=[7,5,4,1,10,23,45,6,2,44,90,23,78];
+max(x);
+min(x);
+mean(x);
+median(x);
+sum(x);
+prod(x);
+length(x);
+std(x);
+sort(x);
